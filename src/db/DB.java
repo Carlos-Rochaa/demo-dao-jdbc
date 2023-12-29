@@ -36,7 +36,7 @@ public class DB {
         if (statement != null) {
             try {
                 statement.close();
-                ;
+
             } catch (SQLException e) {
                 throw new DbException(e.getMessage());
             }
@@ -47,7 +47,7 @@ public class DB {
         if (rs != null) {
             try {
                 rs.close();
-                ;
+
             } catch (SQLException e) {
                 throw new DbException(e.getMessage());
             }
