@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d05bd202-6c47-4f4d-ae9a-98f1e413db3b" name="Changes" comment="Creating repository">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/dao/SellerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/SellerDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703803901844</updated>
       <workItem from="1703803902816" duration="4539000" />
-      <workItem from="1703882090532" duration="4314000" />
+      <workItem from="1703882090532" duration="5373000" />
     </task>
     <task id="LOCAL-00001" summary="Creating repository">
       <option name="closed" value="true" />
